@@ -22,13 +22,13 @@ The course covers the following key topics:
 
 ## **Notebooks**
 The course provides the following notebooks for hands-on learning:
-- [L2_getting_started.ipynb]() – Introduction to Llama 2 and 3 models, including setup and usage.
-- [L3_multi_turn_conversations.ipynb]() – Techniques for handling multi-turn conversations with Llama models.
-- [L4_prompt_engineering_techniques.ipynb]() – A deep dive into prompt engineering methods such as few-shot and chain-of-thought prompting.
-- [L5_comparing_llama_models.ipynb]() – Comparison of different Llama 2 and Llama 3 models across tasks like sentiment classification and summarization.
-- [L6_code_llama.ipynb]() – Exploring Code Llama for code generation, completion, and in-filling.
-- [L7_llama_guard.ipynb]() – Implementing Llama Guard for safety checks on inputs and outputs.
-- [L8_walkthrough_helper_function.ipynb]() – Step-by-step guide for using the Llama helper function to interact with the Together.AI API.
+- [L2_getting_started.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L2_getting_started.ipynb) – Introduction to Llama 2 and 3 models, including setup and usage.
+- [L3_multi_turn_conversations.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L3_multi_turn_conversations.ipynb) – Techniques for handling multi-turn conversations with Llama models.
+- [L4_prompt_engineering_techniques.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L4_prompt_engineering_techniques.ipynb) – A deep dive into prompt engineering methods such as few-shot and chain-of-thought prompting.
+- [L5_comparing_llama_models.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L5_comparing_llama_models.ipynb) – Comparison of different Llama 2 and Llama 3 models across tasks like sentiment classification and summarization.
+- [L6_code_llama.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L6_code_llama.ipynb) – Exploring Code Llama for code generation, completion, and in-filling.
+- [L7_llama_guard.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L7_llama_guard.ipynb) – Implementing Llama Guard for safety checks on inputs and outputs.
+- [L8_walkthrough_helper_function.ipynb](https://github.com/michaWorku/Prompt-Eng-with-LIama-2/blob/main/L8_walkthrough_helper_function.ipynb) – Step-by-step guide for using the Llama helper function to interact with the Together.AI API.
 
 ## **Getting Started**
 To get started, follow these steps:
